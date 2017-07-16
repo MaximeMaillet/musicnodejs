@@ -31,11 +31,19 @@ brew install timidity
 npm install
 ```
 
-## Run partition
+```bash
+node server.js
+```
+
+Open your browser with http://localhost:8888
 
 ```bash
 node index.js
 ```
+
+
+Do you listen this music ?
+
 
 ## Work with partition
 
