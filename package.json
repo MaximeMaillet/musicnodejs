@@ -1,0 +1,23 @@
+{
+  "name": "musicnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jsmediatags": "^3.6.1",
+    "mp3-duration": "^1.0.10",
+    "musicmetadata": "^2.0.5",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7",
+    "scribbletune": "^0.9.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
